@@ -9,4 +9,4 @@ Users can remove tasks in two different ways:
 * Either by pressing the checkbox
 * Or by long pressing the item on the list
 
-![Alt text](/screenshot.png?raw=true "Screenshot")
+![Alt text](/Screenshot.png?raw=true "Screenshot")
